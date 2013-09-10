@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://xuehung.github.io//github/sitemap.xml 
+Sitemap: http://xuehung.github.io/fod_octopress/sitemap.xml 
