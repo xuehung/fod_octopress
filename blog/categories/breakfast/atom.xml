@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Food Open Data]]></title>
-  <link href="http://xuehung.github.io/fod_octopress/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Breakfast | Food Open Data]]></title>
+  <link href="http://xuehung.github.io/fod_octopress/blog/categories/breakfast/atom.xml" rel="self"/>
   <link href="http://xuehung.github.io/fod_octopress/"/>
   <updated>2013-09-11T16:47:35+08:00</updated>
   <id>http://xuehung.github.io/fod_octopress/</id>
